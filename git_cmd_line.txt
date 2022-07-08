@@ -1,0 +1,21 @@
+pwd
+
+git init
+
+git remote add origin https://github.com/sarahlmj/0708test.git
+
+git branch -M main
+
+git add 
+
+git commit -m"0708"
+
+
+
+git push -u origin main
+
+
+git remote set-url origin  https://<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>@github.com/<sarahlmj>/<0708test>.git
+
+
+token : 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
